@@ -1,0 +1,167 @@
+VOG00032	371	167	Xs	sp|A7U6E9|MCP_POV01 Major capsid protein
+VOG00080	1058	1052	Xs	sp|O64210|CAPSD_BPMD2 Probable major capsid protein gp17
+VOG00167	939	921	XrXs	sp|P19727|CAPSB_BPT7 Minor capsid protein
+VOG00264	30	24	Xs	sp|Q5UQN7|CAPS3_MIMIV Probable capsid protein 3
+VOG00295	345	345	XhXs	sp|D6RRG1|CAPSD_BPKPP Major capsid protein
+VOG00303	637	378	XhXs	sp|P04535|CAPSH_BPT4 Major capsid protein
+VOG00368	229	130	XhXpXs	sp|P04011|VP2_POVLY Minor capsid protein VP2
+VOG00524	38	38	Xu	REFSEQ capsid maturation protease
+VOG00721	19	19	XrXs	sp|P32503|GAG_SCVLA Major capsid protein
+VOG00789	38	38	XhXs	sp|P26747|CAPSD_BPP22 Major capsid protein
+VOG00924	58	58	XhXs	sp|Q9T1W1|CAPSD_BPMU Major capsid protein
+VOG01037	31	16	Xs	sp|Q08538|CPM_BYVU Minor capsid protein
+VOG01178	22	22	Xu	REFSEQ minor capsid protein
+VOG01195	88	83	XhXs	sp|Q37888|CAPSD_BPB03 Major capsid protein
+VOG01383	138	137	Xu	REFSEQ capsid maturation protease
+VOG01487	61	61	Xu	REFSEQ major capsid protein
+VOG01558	238	238	Xs	sp|A0A0U5AF03|CAPSD_BPK22 Major capsid protein
+VOG01568	104	104	Xs	sp|Q38582|CAPSD_BPSPP Major capsid protein
+VOG01612	50	49	Xs	sp|O57043|CAPSD_HV19S Major capsid protein
+VOG01631	11	9	Xu	REFSEQ capsid protein
+VOG01741	87	87	Xs	sp|Q01051|TRX1_SHV21 Triplex capsid protein 1
+VOG01807	37	37	Xu	REFSEQ major capsid protein
+VOG01899	28	27	Xs	sp|P18056|HOC_BPT4 Highly immunogenic outer capsid protein
+VOG01982	83	76	Xu	REFSEQ major capsid protein
+VOG02059	51	48	Xu	REFSEQ putative major capsid protein
+VOG02076	26	26	Xu	REFSEQ minor capsid protein
+VOG02085	90	90	XhXs	sp|P17499|MCP_NPVAC Major capsid protein
+VOG02148	81	81	XhXs	sp|Q38300|CAPSD_BPLC2 Major capsid protein
+VOG02237	6	6	XhXs	sp|B0ZSF3|CAPSD_BPHA1 Major capsid protein
+VOG02242	4	4	XhXrXs	sp|Q7TDB4|VP3_MYRV9 Outer capsid protein VP3
+VOG02293	14	11	XrXs	sp|O64307|A1_BPMX1 Minor capsid protein A1
+VOG02442	32	31	Xu	REFSEQ major capsid protein
+VOG02473	10	10	XhXpXs	sp|P12473|VP4_ROTRH Outer capsid protein VP4
+VOG02630	25	25	XhXs	sp|Q6QIB5|CAPSD_BPBMU Major capsid protein
+VOG02870	22	22	Xs	sp|Q9YX48|CAPSD_FDVS Putative major capsid protein
+VOG02911	134	132	Xs	sp|Q6Y7S3|CAPSD_BPPGK Major capsid protein
+VOG03139	5	5	Xu	REFSEQ capsid maturation protease
+VOG03466	545	545	XhXs	sp|D3WAC4|PRO_BPLP2 Probable capsid maturation protease
+VOG03814	143	143	Xu	REFSEQ major capsid protein
+VOG03871	5	4	XhXs	sp|B0FIH3|CAPSD_BPE32 Major capsid protein
+VOG03887	24	24	XhXrXs	sp|Q91ID8|VP4_LDCPR Outer capsid protein VP4
+VOG04041	6	6	Xs	sp|B4YNG0|CAPSD_SPTNK Putative capsid protein V20
+VOG04099	3	3	Xu	REFSEQ capsid protein C
+VOG04116	10	10	Xs	sp|O71024|VP2_AHSV6 Outer capsid protein VP2
+VOG04126	4	4	Xu	REFSEQ capsid assembly protein
+VOG04133	3	3	Xu	REFSEQ putative capsid protein
+VOG04156	23	23	Xu	REFSEQ major capsid protein
+VOG04342	10	10	XhXs	sp|P26015|VP6_ROTGA Intermediate capsid protein VP6
+VOG04632	16	16	Xu	REFSEQ capsid protein
+VOG04723	39	36	XhXs	sp|B0FIH3|CAPSD_BPE32 Major capsid protein
+VOG04754	4	4	Xu	REFSEQ putative capsid triplex subunit 1
+VOG04777	4	4	Xu	REFSEQ outer capsid protein
+VOG04975	7	7	Xu	REFSEQ capsid protein
+VOG04993	11	11	Xu	REFSEQ putative capsid protein
+VOG05094	9	5	Xu	REFSEQ capsid protein
+VOG05237	9	9	XhXpXrXs	sp|P03527|SIGM3_REOVD Outer capsid protein sigma-3
+VOG05263	10	10	XhXs	sp|Q45UF2|VP7_ROTJ1 Outer capsid glycoprotein VP7
+VOG05265	4	4	Xu	REFSEQ putative capsid protein
+VOG05541	4	4	XhXs	sp|P07579|CAPSD_BPPH6 Major outer capsid protein
+VOG05808	39	38	Xu	REFSEQ capsid and scaffold protein
+VOG05844	4	3	Xu	REFSEQ putative capsid protein
+VOG05863	149	147	Xs	sp|Q7Y5B1|SOC_BPR69 Small outer capsid protein
+VOG06331	11	11	Xu	REFSEQ capsid maturation protease
+VOG06760	4	4	Xu	REFSEQ capsid and scaffold protein
+VOG06789	7	7	Xs	sp|P22535|CAPSD_BPPRD Major capsid protein P3
+VOG07064	193	193	XhXpXs	sp|P36749|VL2_HPV14 Minor capsid protein L2
+VOG07067	198	195	XhXpXs	sp|Q07874|VL1_HPV65 Major capsid protein L1
+VOG07153	1087	903	Xs	sp|P18056|HOC_BPT4 Highly immunogenic outer capsid protein
+VOG07281	12	12	Xs	sp|O10338|VP15_NPVOP Putative 15 kDa capsid protein
+VOG07585	90	90	Xs	sp|P28920|MCP_EHV1B Major capsid protein
+VOG07586	91	91	Xs	sp|P28921|TRX2_EHV1B Triplex capsid protein 2
+VOG07717	937	936	Xs	sp|Q05222|SCAF_BPML5 Probable capsid assembly scaffolding protein
+VOG08104	100	100	Xu	REFSEQ capsid protein
+VOG08304	3	3	Xs	sp|Q9YJJ8|VP8_BAVJK Intermediate capsid protein VP8
+VOG08306	3	3	XhXs	sp|Q9INI3|VP4_BAVJK Outer capsid protein VP4
+VOG08307	3	3	Xs	sp|Q9INI5|VP2_BAVJK Major inner capsid protein VP2
+VOG08318	23	23	XhXpXs	sp|P30209|VP5_BTV2A Outer capsid protein VP5
+VOG08669	46	46	XhXs	sp|P36717|CORE5_ADE12 Core-capsid bridging protein
+VOG08922	138	137	XhXpXs	sp|P04010|VP1_POVLY Major capsid protein VP1
+VOG08929	19	19	XpXs	sp|P09519|CAPSD_FMVD Probable capsid protein
+VOG09148	165	103	XhXpXs	sp|P07297|CAPSD_PAVBP Minor capsid protein VP1
+VOG09151	7	7	Xu	REFSEQ capsid accessory protein
+VOG09152	7	7	Xu	REFSEQ capsid maturation protease
+VOG09210	6	6	Xu	REFSEQ outer capsid protein
+VOG09586	3	3	Xs	sp|P15900|CAPSD_SPV1R Putative capsid protein ORF9
+VOG09711	5	5	Xs	sp|A9Q1K8|VP2_ROTB2 Inner capsid protein VP2
+VOG09883	3	3	XhXs	sp|P22472|P3_RDVA Outer capsid protein P3
+VOG09884	3	3	XhXs	sp|O55519|P2_RDVO Minor outer capsid protein P2
+VOG09885	4	4	XhXs	sp|P17379|P8_RDVO Outer capsid protein P8
+VOG09888	4	4	XhXs	sp|P12326|P9_WTV Minor outer capsid protein P9
+VOG09904	26	26	Xu	REFSEQ capsid maturation protease
+VOG09968	27	27	Xu	REFSEQ MuF-like minor capsid protein
+VOG10064	49	49	Xu	REFSEQ putative capsid protein
+VOG10717	3	3	Xu	REFSEQ major capsid protein
+VOG11422	3	3	Xu	REFSEQ capsid protein VP1
+VOG11432	4	4	Xu	REFSEQ capsid protein VP13
+VOG11435	4	4	Xu	REFSEQ capsid protein VP10
+VOG11459	17	17	XhXrXs	sp|P11079|LMBD2_REOVD Outer capsid protein lambda-2
+VOG11460	17	17	XhXrXs	sp|Q9WAB1|LMBD1_REOVJ Inner capsid protein lambda-1
+VOG11462	17	17	XhXpXs	sp|B2BNE4|VP4_AQRVG Outer capsid protein VP4
+VOG13439	7	7	Xu	sp|P22175|NCP_MSTV Major non-capsid protein
+VOG13455	5	5	Xu	REFSEQ putative capsid protein
+VOG13721	3	3	Xu	REFSEQ major capsid protein
+VOG13745	3	3	Xu	REFSEQ major capsid protein
+VOG14003	3	3	Xu	REFSEQ capsid protein VP3
+VOG14004	3	3	Xu	REFSEQ capsid protein VP9
+VOG14300	10	10	Xu	REFSEQ capsid protein
+VOG14699	5	5	XhXs	sp|A4ZCW5|VP2_ROTH3 Inner capsid protein VP2
+VOG15223	4	4	Xu	REFSEQ capsid protein
+VOG16434	7	7	Xs	sp|P18056|HOC_BPT4 Highly immunogenic outer capsid protein
+VOG17236	17	17	Xu	REFSEQ capsid maturation protease
+VOG17594	4	4	Xu	REFSEQ nucleocapsid
+VOG17596	14	13	Xu	REFSEQ nucleocapsid protein
+VOG18384	5	5	Xu	REFSEQ putative capsid protein
+VOG18465	4	4	Xu	REFSEQ capsid maturation protease
+VOG18806	5	5	Xu	REFSEQ capsid protein 1
+VOG19109	36	36	Xu	REFSEQ capsid and scaffold protein
+VOG19110	18	18	Xu	REFSEQ capsid and scaffold protein
+VOG19204	7	7	Xs	sp|P15794|CAPSD_BPPM2 Major capsid protein P2
+VOG19567	6	6	Xu	REFSEQ putative capsid protein
+VOG19568	6	6	Xu	REFSEQ putative capsid protein
+VOG19856	11	11	Xu	REFSEQ putative minor capsid protein
+VOG20979	23	23	Xu	REFSEQ outer capsid protein/viral fiber
+VOG21931	3	3	Xu	REFSEQ putative outer capsid protein
+VOG22154	4	4	Xu	REFSEQ outer capsid protein
+VOG22943	2	2	Xu	REFSEQ capsid protein VP1
+VOG26094	2	2	Xu	REFSEQ nucleocapsid protein
+VOG26124	2	2	Xu	REFSEQ capsid
+VOG26125	2	2	Xu	REFSEQ putative capsid protein
+VOG26126	2	2	Xu	REFSEQ putative capsid protein
+VOG26220	2	2	XrXs	sp|P19693|CAPSA_BPT3 Major capsid protein
+VOG26231	2	2	Xu	REFSEQ putative outer capsid protein P6
+VOG26505	2	2	Xu	REFSEQ putative capsid protein
+VOG26801	2	2	Xu	REFSEQ capsid protein
+VOG26955	2	2	Xu	REFSEQ capsid maturation protease
+VOG27126	2	2	Xu	REFSEQ major capsid protein
+VOG27127	2	2	Xu	REFSEQ capsid maturation protease
+VOG27374	2	2	XhXs	sp|B2BNE9|VP7_AQRVG Outer capsid protein VP7
+VOG27377	3	2	Xu	REFSEQ capsid protein
+VOG27378	2	2	Xu	REFSEQ small capsid protein
+VOG27911	2	2	Xu	REFSEQ putative capsid protein
+VOG28423	2	2	Xs	sp|A0A1W6I186|NCAP_SPV1 Nucleocapsid VP1
+VOG28610	2	2	Xu	REFSEQ capsid maturation protease
+VOG29078	2	2	XhXs	sp|Q6QGD8|CAPSD_BPT5 Major capsid protein
+VOG29304	2	2	Xu	REFSEQ putative capsid protein
+VOG29308	2	2	Xu	REFSEQ capsid maturation protease
+VOG30058	2	2	Xu	REFSEQ capsid maturation protease and MuF-like fusion protein
+VOG30603	2	2	Xu	REFSEQ major capsid protein
+VOG30901	2	2	Xu	REFSEQ capsid protein
+VOG31458	2	2	Xu	REFSEQ head outer capsid protein
+VOG32197	2	2	Xu	REFSEQ capsid scaffolding protein
+VOG32674	2	2	XhXs	sp|P0CAB3|M1249_ASFK5 Minor capsid protein M1249L
+VOG32682	2	2	XhXs	sp|P0C9Z5|P49_ASFWA Minor capsid protein p49
+VOG32700	2	2	Xs	sp|P0C9Y8|P17_ASFK5 Minor capsid protein p17
+VOG32870	2	2	Xu	REFSEQ capsid assembly protein (scaffold)
+VOG33120	15	15	Xs	sp|A0A6M3VXD3|CAPSD_SSRV1 Major capsid protein
+VOG33385	6	6	Xs	sp|Q914J4|CAPS1_SIFVH Major capsid protein 1
+VOG33386	6	6	Xs	sp|Q914J5|CAPS2_SIFVH Major capsid protein 2
+VOG33436	3	3	Xu	REFSEQ major capsid protein
+VOG33692	3	3	Xu	REFSEQ capsid protein
+VOG33819	2	2	Xs	sp|P27391|VP30_BPPRD Minor capsid protein P30
+VOG33929	2	2	Xu	REFSEQ minor capsid protein
+VOG34183	2	2	Xu	REFSEQ major capsid protein
+VOG34285	2	2	Xu	REFSEQ nucleocapsid protein P8
+VOG34360	2	2	Xu	REFSEQ minor capsid protein
+VOG34469	2	2	Xs	sp|A0A346LU62|CAPS1_SUFV1 Major capsid protein VP4
+VOG34471	2	2	Xs	sp|A0A346LU63|CAPS2_SUFV1 Major capsid protein VP5
